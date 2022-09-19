@@ -2506,6 +2506,7 @@
 ###analytics_ad
 ###analytics_banner
 ###anchorAd
+###anchor-ad
 ###aom-ad-right_side_1
 ###aom-ad-right_side_2
 ###aom-ad-top
@@ -11928,6 +11929,7 @@
 ##.bodybannerad
 ##.bodyrectanglead
 ##.bomAd
+##.bonnier-ad
 ##.bookad
 ##.bordered-ad
 ##.bostad
@@ -18391,6 +18393,7 @@
 ##div[id^="advads-"]
 ##div[id^="advads_"]
 ##div[id^="banner-ad-"]
+##div[id^="bonnier-ads-middle-"]
 ##div[id^="bunyad-widget-ads-"]
 ##div[id^="crt-"][style]
 ##div[id^="dfp-ad-"]
