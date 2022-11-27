@@ -1655,6 +1655,7 @@ artma-zaproszenia.pl##.bottom-2.fixed
 prohibita.pl##.ciachbtm-wrap-container
 vod.warszawa.pl##.cjcVDw
 forumrowerowe.org##.ckg
+aterima-work.pl##.cm-popup-wrapper
 sklep.szprychy.com##.config-messages
 scentre.pl##.consent
 ercomer.pl,miodykrupiec.pl,motohid.pl,planszostrefa.pl,questsport.shop,skarbyroztocza.com##.consents
@@ -1832,7 +1833,6 @@ chrysler.com.br,citroen.com.br,dodge.com.br,fiat.com.br,jeep.com.br,ram.com.br##
 gympass.com##.iTHgOb
 sioslife.com##.index-module--CookiesBanner--2ep-D
 honda.com.br##.info-notification
-santillanaespanol.com.br##.info-politica-all
 hyundai.com.br##.infobox-wrap
 theplayground.pt##.jWuEfS
 roly.pt##.jq-toast-wrap
