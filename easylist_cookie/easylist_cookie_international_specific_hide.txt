@@ -1070,7 +1070,7 @@ esri.fi##.gnav_notification-popup
 fyndiq.fi##.iNgGxy
 kicks.fi##.ir.iq.h
 pihlajalinna.fi##.jfCHNz
-valostore.fi##.jss163
+valostore.fi##.css-13jewua
 tiendeo.fi##.kcLQzP
 kiitoskauppa.fi##.kiitos-cookies
 epressi.com##.lpcn
